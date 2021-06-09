@@ -1,0 +1,1 @@
+For detailed explanation, see: https://noobest.medium.com/gradient-descent-from-scratch-almost-2594806b8d64
